@@ -7,11 +7,11 @@ and generates a treelike diagram listing the contents of the directory at hand.
 ## Project Content
 
 Directory-Tree-Generator\
-   ├──img\
-   │  └──sample.PNG\
-   ├──cli.py\
-   ├──README.md\
-   └──tree.py\
+    ├──img\
+    │   └──sample.PNG\
+    ├──cli.py\
+    ├──README.md\
+    └──tree.py
 
 ## Requirements
 
@@ -40,6 +40,6 @@ python cli.py "path-to-folder" -f=True
 
 ## Sample Output
 
-![sample_output]("./img/sample.PNG)
+![sample_output](./img/sample.PNG)
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
