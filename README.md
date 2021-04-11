@@ -7,11 +7,11 @@ and generates a treelike diagram listing the contents of the directory at hand.
 ## Project Content
 
 Directory-Tree-Generator\
-    ├──img\
-    │   └──sample.PNG\
-    ├──cli.py\
-    ├──README.md\
-    └──tree.py
+ &nbsp; &nbsp;├──img\
+ &nbsp; &nbsp;│&nbsp; &nbsp;└──sample.PNG\
+ &nbsp; &nbsp;├──cli.py\
+ &nbsp; &nbsp;├──README.md\
+ &nbsp; &nbsp;└──tree.py
 
 ## Requirements
 
